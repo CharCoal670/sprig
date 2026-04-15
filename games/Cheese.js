@@ -1,8 +1,8 @@
 /*
-@title: Untitled
-@author: 
-@tags: []
-@addedOn: 2025-00-00
+@title: Cheese
+@author: David 
+@tags: ['cheese']
+@addedOn: 2026-4-15
 */
     const player = "p"
     const wall = "w"
